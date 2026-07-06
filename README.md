@@ -1,37 +1,58 @@
- 
-<h1 align="center"> Bem-vindo(a) ao meu perfil</h1>
-<h2 align="center"> Em construção</h2>
+<h1 align="center">Olá, seja bem-vindo(a) 👋</h1>
+<h3 align="center">🚧 Perfil em construção 🚧</h3>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software+em+forma%C3%A7%C3%A3o;Aprendendo+Python+%2B+Django;Estudando+CS50%2C+React+e+TypeScript" alt="Typing SVG" />
+</p>
 
-<ul>
- <li> <h3> 👨‍💻 Engenheiro de Software em formação</h3> </li>
- <li> 📚 Aprendendo Python o framework Django no momento em curso na Udemy</li>
- <li> 📚 Reaprendendo programação com o curso CS50 grátis, irei trazer meus projetos aqui</li>
- <li> 🗃 Estudarei também React js e Typescript</li>
-</ul>
+---
 
-####  No momento: 
+### 👨‍💻 Sobre mim
 
-Atualmente trabalhando em um projeto de agenda em **Django** e outro de algoritmo de árvore binária em **Python**
+- 📚 Aprendendo **Python** e o framework **Django** em curso na Udemy
+- 🔁 Reaprendendo programação com o curso **CS50** (gratuito), trazendo meus projetos para cá
+- 🗃 Estudando também **React.js** e **TypeScript**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucastatsumi&repo=ProjetoAgenda)](https://github.com/lucastatsumi/ProjetoAgenda.git)
+### 🔨 No momento
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucastatsumi&repo=arvorebinaria)](https://github.com/lucastatsumi/arvorebinaria.git)
+Trabalhando em um projeto de agenda em **Django** e em um algoritmo de árvore binária em **Python**.
 
+<p align="left">
+  <a href="https://github.com/lucastatsumi/ProjetoAgenda">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucastatsumi&repo=ProjetoAgenda&theme=default" alt="Projeto Agenda" />
+  </a>
+  <a href="https://github.com/lucastatsumi/arvorebinaria">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucastatsumi&repo=arvorebinaria&theme=default" alt="Árvore Binária" />
+  </a>
+</p>
 
-<h2 align="center">Conhecimentos </h2>
+---
 
-<img src="https://camo.githubusercontent.com/0fd2667849df9f18b863a2fc9fdf275d28c0e69bae657009213dbbba08295d02/68747470733a2f2f7261772e6769746875622e636f6d2f436972636c6543492d5075626c69632f63696d672d707974686f6e2f6d61737465722f696d672f636972636c652d707974686f6e2e7376673f73616e6974697a653d74727565" width=50/> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width=50/> <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width=50/> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width=50/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" width=50> <img src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png?f=webp" width=50>
+### 🧰 Tecnologias
 
-<h2 align="center">Sobre </h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+</p>
 
-![lucastatsumi Status](https://github-readme-stats.vercel.app/api?username=lucastatsumi&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastatsumi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucastatsumi&show_icons=true&theme=default" alt="lucastatsumi Status" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastatsumi&layout=compact&theme=default" alt="Top Linguagens" />
+</p>
 
 <!--
-**Luketuner123/Luketuner123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lucastatsumi/lucastatsumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
