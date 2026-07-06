@@ -1,21 +1,21 @@
-<h1 align="center">Olá, seja bem-vindo(a) 👋</h1>
-<h3 align="center">🚧 Perfil em construção 🚧</h3>
+<h1 align="center">Lucas Tatsumi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software+em+forma%C3%A7%C3%A3o;Aprendendo+Python+%2B+Django;Estudando+CS50%2C+React+e+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Python+%2B+Django;Em+constante+aprendizado" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-- 📚 Aprendendo **Python** e o framework **Django** em curso na Udemy
-- 🔁 Reaprendendo programação com o curso **CS50** (gratuito), trazendo meus projetos para cá
+- 💼 Atuo profissionalmente na área de desenvolvimento de software
+- 📚 Aprofundando conhecimento em **Python** e **Django** (curso na Udemy)
+- 🔁 Reforçando fundamentos de programação com o **CS50**
 - 🗃 Estudando também **React.js** e **TypeScript**
 
-### 🔨 No momento
+### 🔨 Projetos pessoais
 
-Trabalhando em um projeto de agenda em **Django** e em um algoritmo de árvore binária em **Python**.
+Projetos de estudo desenvolvidos para praticar fora do trabalho.
 
 | Projeto | Descrição |
 | --- | --- |
