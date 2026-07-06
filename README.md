@@ -1,15 +1,15 @@
 <h1 align="center">Lucas Tatsumi</h1>
-<h3 align="center">Desenvolvedor de Automações</h3>
+<h3 align="center">Desenvolvedor de Software</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Automa%C3%A7%C3%B5es;Python+%2B+Django;Em+constante+aprendizado" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Python+%2B+Django;Em+constante+aprendizado" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-- 💼 Atuo profissionalmente como **desenvolvedor de automações**
+- 💼 Atuo profissionalmente na área de desenvolvimento de software
 - 📚 Aprofundando conhecimento em **Python** e **Django** (curso na Udemy)
 - 🔁 Reforçando fundamentos de programação com o **CS50**
 - 🗃 Estudando também **React.js** e **TypeScript**
