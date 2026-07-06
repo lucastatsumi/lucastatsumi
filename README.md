@@ -17,14 +17,10 @@
 
 Trabalhando em um projeto de agenda em **Django** e em um algoritmo de árvore binária em **Python**.
 
-<p align="left">
-  <a href="https://github.com/lucastatsumi/ProjetoAgenda">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucastatsumi&repo=ProjetoAgenda&theme=default" alt="Projeto Agenda" />
-  </a>
-  <a href="https://github.com/lucastatsumi/arvorebinaria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucastatsumi&repo=arvorebinaria&theme=default" alt="Árvore Binária" />
-  </a>
-</p>
+| Projeto | Descrição |
+| --- | --- |
+| 🗂️ [**ProjetoAgenda**](https://github.com/lucastatsumi/ProjetoAgenda) | Sistema de agenda em Django |
+| 🌳 [**arvorebinaria**](https://github.com/lucastatsumi/arvorebinaria) | Algoritmo de árvore binária em Python |
 
 ---
 
@@ -45,10 +41,15 @@ Trabalhando em um projeto de agenda em **Django** e em um algoritmo de árvore b
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucastatsumi&show_icons=true&theme=default" alt="lucastatsumi Status" />
+  <img src="https://img.shields.io/github/followers/lucastatsumi?label=Seguidores&style=for-the-badge&color=2F80ED" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/lucastatsumi?affiliations=OWNER&style=for-the-badge&label=Stars&color=2F80ED" alt="Stars" />
 </p>
+
+**Top linguagens:**
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastatsumi&layout=compact&theme=default" alt="Top Linguagens" />
+  <img src="https://img.shields.io/github/languages/top/lucastatsumi/ProjetoAgenda?style=for-the-badge&label=ProjetoAgenda" alt="Top language ProjetoAgenda" />
+  <img src="https://img.shields.io/github/languages/top/lucastatsumi/arvorebinaria?style=for-the-badge&label=arvorebinaria" alt="Top language arvorebinaria" />
 </p>
 
 <!--
